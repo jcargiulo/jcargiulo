@@ -1,0 +1,4 @@
+- Hi, I’m @jcargiulo
+- I’m interested in machine learning and data science
+- I’m currently learning machine learning at the University of Maryland
+- Reach me at cargiulojustin@gmail.com
